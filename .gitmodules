@@ -13,3 +13,5 @@
 [submodule "AdriARP"]
 	path = AdriARP
 	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/adriarp.git
+[submodule]
+	Adr = iARP.url
