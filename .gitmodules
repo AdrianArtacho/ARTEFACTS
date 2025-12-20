@@ -6,4 +6,4 @@
 	url = https://github.com/AdrianArtacho/OSCSend.git
 [submodule "snapOSC"]
 	path = snapOSC
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/snaposc.git
+	url = https://github.com/AdrianArtacho/snapOSC.git
