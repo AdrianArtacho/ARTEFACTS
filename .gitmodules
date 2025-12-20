@@ -10,3 +10,6 @@
 [submodule "StereoExpand"]
 	path = StereoExpand
 	url = https://github.com/AdrianArtacho/StereoExpand.git
+[submodule "AdriARP"]
+	path = AdriARP
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/adriarp.git
