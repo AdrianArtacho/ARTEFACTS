@@ -7,3 +7,6 @@
 [submodule "snapOSC"]
 	path = snapOSC
 	url = https://github.com/AdrianArtacho/snapOSC.git
+[submodule "StereoExpand"]
+	path = StereoExpand
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/stereoexpand.git
