@@ -12,6 +12,6 @@
 	url = https://github.com/AdrianArtacho/StereoExpand.git
 [submodule "AdriARP"]
 	path = AdriARP
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/adriarp.git
+url=https://github.com/AdrianArtacho/AdriARP.git
 [submodule]
 	Adr = iARP.url
