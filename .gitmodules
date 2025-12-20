@@ -27,3 +27,9 @@ url=https://github.com/AdrianArtacho/AdriARP.git
 [submodule "SampleRacks"]
 	path = SampleRacks
 	url = https://github.com/AdrianArtacho/SampleRacks.git
+[submodule "theremin/theremin4live"]
+	path = theremin/theremin4live
+	url = https://github.com/AdrianArtacho/theremin4live.git
+[submodule "theremin/m4l_theremin"]
+	path = theremin/m4l_theremin
+	url = https://github.com/AdrianArtacho/m4l_theremin.git
