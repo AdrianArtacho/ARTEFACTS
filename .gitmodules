@@ -24,3 +24,6 @@ url=https://github.com/AdrianArtacho/AdriARP.git
 [submodule "OSC2map"]
 	path = OSC2map
 	url = https://github.com/AdrianArtacho/OSC2map.git
+[submodule "SampleRacks"]
+	path = SampleRacks
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/sampleracks.git
