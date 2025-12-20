@@ -33,3 +33,6 @@ url=https://github.com/AdrianArtacho/AdriARP.git
 [submodule "theremin/m4l_theremin"]
 	path = theremin/m4l_theremin
 	url = https://github.com/AdrianArtacho/m4l_theremin.git
+[submodule "light/DMX4Live"]
+	path = light/DMX4Live
+url=https://github.com/AdrianArtacho/DMX4Live.git
