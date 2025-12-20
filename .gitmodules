@@ -1,3 +1,6 @@
 [submodule "ip_menu_range"]
 	path = ip_menu_range
 	url = https://github.com/AdrianArtacho/IP_menu_range.git
+[submodule "OSCSend"]
+	path = OSCSend
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/oscsend.git
