@@ -36,3 +36,6 @@ url=https://github.com/AdrianArtacho/AdriARP.git
 [submodule "light/DMX4Live"]
 	path = light/DMX4Live
 url=https://github.com/AdrianArtacho/DMX4Live.git
+[submodule "office/watermark"]
+	path = office/watermark
+	url = https://github.com/AdrianArtacho/watermark.git
