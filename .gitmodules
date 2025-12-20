@@ -15,3 +15,6 @@
 url=https://github.com/AdrianArtacho/AdriARP.git
 [submodule]
 	Adr = iARP.url
+[submodule "Knob8"]
+	path = Knob8
+	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/knob8.git
