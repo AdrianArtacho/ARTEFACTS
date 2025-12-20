@@ -23,4 +23,4 @@ url=https://github.com/AdrianArtacho/AdriARP.git
 	url = https://github.com/AdrianArtacho/Map8.git
 [submodule "OSC2map"]
 	path = OSC2map
-	url = https://AdrianArtacho@bitbucket.org/AdrianArtacho/osc2map.git
+	url = https://github.com/AdrianArtacho/OSC2map.git
