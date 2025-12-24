@@ -39,3 +39,6 @@ url=https://github.com/AdrianArtacho/DMX4Live.git
 [submodule "office/watermark"]
 	path = office/watermark
 	url = https://github.com/AdrianArtacho/watermark.git
+[submodule "office/download-yt"]
+	path = office/download-yt
+	url = https://github.com/AdrianArtacho/download-yt.git
